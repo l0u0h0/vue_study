@@ -27,8 +27,12 @@
     - 리액트는 중괄호 안에 변수를 넣어 사용
 
 - `vue-cli`
+
   - `npm install -g @vue/cli`
   - vue-cli를 전역 설치해 사용
   - `vue create hello-world`
   - 뷰 프로젝트 설치(cra와 같은 방식)
   - hello-world는 디렉토리 명
+
+- `vue-dev-tool`
+  - 크롬에서 개발할 때 편리한 도구, 크롬 웹스토어에서 설치 후 개발자 도구에서 사용 가능.
