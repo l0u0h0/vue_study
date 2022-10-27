@@ -35,4 +35,12 @@
   - hello-world는 디렉토리 명
 
 - `vue-dev-tool`
+
   - 크롬에서 개발할 때 편리한 도구, 크롬 웹스토어에서 설치 후 개발자 도구에서 사용 가능.
+
+- `extension`
+
+  - vue, vue3-Snippets
+
+- `vueinit`
+  - Tab을 누르면 뷰파일을 빠른 자동완성
